@@ -1,5 +1,5 @@
 {
-	"name": "tiptap-extension",
+	"name": "tiptap-link-extension-for-react",
 	"version": "1.0.3",
 	"description": "",
 	"main": "dist/index.cjs.js",
