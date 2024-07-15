@@ -6,6 +6,8 @@ Hello, i made a custom extension for the link node. With this custom extension, 
 
 > The extension don't come with a built-in modal, you need to create yours. This is the goal of this library, you are free to create your own modal and your own logic to create a node link !
 
+> The demo website is coming soon...
+
 ## Installation
 
 ```bash
